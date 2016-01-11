@@ -1,0 +1,66 @@
+@media screen and (min-width: 701px) {
+
+    .text, .textwhite {
+        width: 75%;
+        font-size: 14pt;
+        line-height: 24pt;
+    }
+    
+    #icon {
+        width: 15%;   
+    }
+    
+    .head, .headwhite {
+        font-size: 60pt;   
+        margin-top: 3%;
+    }
+    
+    .headwhite {
+        margin-top: 8%;   
+    }
+    
+    #form {
+        width: 70%;  
+    }
+    
+    #titlehead {
+        font-size: 70pt;   
+        width: 80%;
+        margin: 0 auto;
+        padding-top: 30%;
+    }
+    
+    #desc {
+        font-size: 20pt;   
+    }
+    
+    #enter {
+        font-size: 18pt; 
+    }
+    
+    #about {
+        padding-top: 5%;   
+    }
+    
+    #contact {
+        padding-top: 10%;
+    }
+    
+    #comingsoon {
+        font-size: 50pt;   
+    }
+    
+    #about {
+        height: 100vh;   
+    }
+    
+    .item {
+        padding: 1%;
+    }
+        
+    footer p{
+        margin: 0;
+        padding: 0;
+        
+    }
+}

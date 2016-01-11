@@ -1,0 +1,120 @@
+@media screen and (min-width: 50px) {
+    
+    #titlehead {
+        font-size: 40pt;   
+        margin: 0 auto;
+        padding: 10% 5% 0 5%;
+    }
+    
+    #desc, #enter {
+        font-size: 16pt;   
+    }
+    
+    #top {
+        height: 40vh;   
+    }
+    
+    .head, .headwhite {
+        font-size: 36pt;   
+        margin: 15% 0 0 0;
+    }
+    
+    #icon {
+        width: 25%;
+        margin-top: 0;
+    }
+    
+    #icon2 {
+        width: 25%;
+        margin-top: 15%;
+        text-align: center;
+        margin-bottom: -10%;
+    }
+    
+    .links li {
+        font-size: 14pt;   
+        padding: 0 1%;
+    }
+    
+    ul {
+        padding-left: 0;
+    }
+    
+    .text, .textwhite {
+        font-size: 12pt;   
+        width: 95%;
+        line-height: 17pt;
+    }
+    
+    .text a {
+        font-size: 12pt;   
+    }
+    
+    footer p {
+        font-size: 10pt; 
+        margin: 0;
+        padding: 0;
+    }
+    
+    footer {
+        margin: 0;
+        padding-left: 0;
+    }
+
+    #form {
+        margin: 0;
+        width: 98%;
+    }
+    
+    #msg {
+        width: 75%;   
+    }
+    
+    button {
+        font-size: 12pt;   
+    }
+    
+    form {
+        width: 100%;
+    }
+    
+    #contact {
+        height: 70vh;
+    }
+    
+    footer p{
+        margin: 0;
+        padding: 0;   
+    }
+    
+    #comingsoon {
+        font-size: 40pt;   
+    }
+    
+    .soon {
+        font-size:    
+    }
+    
+    #click {
+        width: 70%; 
+    } 
+    
+    .item, .special {
+        width: 100%;   
+    }
+    
+    #tothetop {
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 20pt;
+        font-weight: 400;
+    }
+    
+    .white {
+        color: #fff;   
+    }
+}
+
+
+
