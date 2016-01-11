@@ -6,6 +6,20 @@
         line-height: 24pt;
     }
     
+    .links {
+        width: 100%;
+    }
+    
+    .links ul {
+        margin-left: -5%;
+    }   
+    
+    .links, .links li {
+        white-space: nowrap;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    
     #icon {
         width: 15%;   
     }
@@ -61,6 +75,5 @@
     footer p{
         margin: 0;
         padding: 0;
-        
     }
 }

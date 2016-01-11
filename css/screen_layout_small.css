@@ -3,7 +3,7 @@
     #titlehead {
         font-size: 40pt;   
         margin: 0 auto;
-        padding: 10% 5% 0 5%;
+        padding: 50% 5% 0 5%;
     }
     
     #desc, #enter {
@@ -11,7 +11,7 @@
     }
     
     #top {
-        height: 40vh;   
+        height: 100vh;   
     }
     
     .head, .headwhite {
@@ -44,6 +44,11 @@
         font-size: 12pt;   
         width: 95%;
         line-height: 17pt;
+    }
+    
+    #about {
+        height: 100%;
+        margin: 10% 2%;
     }
     
     .text a {
@@ -113,6 +118,10 @@
     
     .white {
         color: #fff;   
+    }
+    
+    #contact {
+        height: 100%;   
     }
 }
 
