@@ -120,12 +120,7 @@
         height: 100%;   
     }
     
-#top {
-    background: #000 url(../media/img4small.jpg) no-repeat left top;
-    background-attachment: fixed;
-    background-size: cover;
-    position: left;
-}
+
 }
 
 
