@@ -196,6 +196,8 @@ nav ul li:hover > ul {
 #top {
     background: #000 url(../media/img4.jpg) no-repeat left top;
     background-attachment: fixed;
+    background-size: cover;
+    position: left;
 }
 
 /*--------------------------------about section----------------------------*/
