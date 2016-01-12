@@ -198,6 +198,7 @@ nav ul li:hover > ul {
     background-attachment: fixed;
     background-size: cover;
     position: left;
+    height: 100vh;
 }
 
 /*--------------------------------about section----------------------------*/
