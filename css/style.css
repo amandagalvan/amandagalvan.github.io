@@ -229,6 +229,7 @@ nav ul li:hover > ul {
     display: block;
     margin: auto;
     padding: 10px;
+    width: 200px;
 }
 
 /*--------------------------------contact area-----------------------------*/
@@ -323,7 +324,7 @@ button {
 }
 
 .text a {
-    font-size: 16pt;
+    font-size: 12pt;
     text-transform: uppercase;
     opacity: .3;
     font-weight: 500;
