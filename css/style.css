@@ -237,7 +237,7 @@ nav ul li:hover > ul {
 #contact {
     padding-top: 5%;
     background: #333333;
-    height: 850px;
+    height: 400px;
     max-width: 140%;
 }
 
@@ -405,7 +405,7 @@ footer {
     text-align: center;
 }
 
-footer p{
+footer p {
     margin: 0;
     padding: 0;
 
@@ -447,4 +447,34 @@ footer p{
 
 #tothetop {
     display: none;   
+}
+
+/*--------------------------------------------------------------------*/
+
+.three {
+    width: 250px;
+    padding: 10px;
+    margin: 0 10px;
+    border: #333 1px solid;
+}
+
+.images {
+    text-align: center;
+}
+
+#space {
+    margin-bottom: 300px;   
+    padding-top: 30px;
+}
+
+#resumate h2 {
+    text-align: center;
+    font-size: 26pt;
+    text-transform: uppercase;
+}
+
+#resumate h3 {
+    text-align: center;
+    margin-top: -30px;
+    
 }
