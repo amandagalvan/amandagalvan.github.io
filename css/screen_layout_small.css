@@ -1,13 +1,13 @@
 @media screen and (min-width: 50px) {
     
     #titlehead {
-        font-size: 40pt;   
+        font-size: 30pt;   
         margin: 0 auto;
         padding: 50% 5% 0 5%;
     }
     
     #desc, #enter {
-        font-size: 16pt;   
+        font-size: 12pt;   
     }
     
     #top {
@@ -15,7 +15,7 @@
     }
     
     .head, .headwhite {
-        font-size: 36pt;   
+        font-size: 28pt;   
         margin: 15% 0 0 0;
     }
     
@@ -108,7 +108,7 @@
         display: block;
         text-align: center;
         text-transform: uppercase;
-        font-size: 20pt;
+        font-size: 18pt;
         font-weight: 400;
     }
     
@@ -120,6 +120,9 @@
         height: 100%;   
     }
     
+    #contain {
+        margin-left: 0;
+    }
 
 }
 
