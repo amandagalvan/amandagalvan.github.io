@@ -15,14 +15,14 @@ h1 {
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     font-weight: 500;
 }
 
 body {
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Work Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     color: #000000; 
     text-align: left; 
     margin: 0 auto;
@@ -42,11 +42,11 @@ section {
 }
 
 .text {
-    font-size: 16pt; 
+    font-size: 12pt; 
     line-height: 22pt;
     font-weight: 300;
     text-align: center;
-    width: 60%;
+    width: 80%;
     margin: auto;
 }
 
@@ -59,7 +59,7 @@ section {
 }
 
 .textwhite {
-    font-size: 17pt;   
+    font-size: 12pt;   
     font-weight: 300;
     text-align: center;
     width: 45%;
@@ -68,17 +68,17 @@ section {
 }
 
 .head {
-    font-size: 40pt;
+    font-size: 30pt;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     text-transform: uppercase;
     text-align: center;
 }
 
 .headwhite {
-    font-size: 40pt;
+    font-size: 30pt;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     text-transform: uppercase;
     text-align: center;
     color: #fff;
@@ -104,7 +104,7 @@ nav a:hover, a:active {
 }
 
 ul {
-    font-size: 16pt;
+    font-size: 14pt;
     font-weight: 400;
     text-align: center;  
     margin: 0;
@@ -131,7 +131,7 @@ nav ul ul {
 nav ul ul li {
 	float: none;
     display: block;
-    text-align: left;
+    text-align: center;
 }
 
 nav ul ul a {
@@ -148,18 +148,18 @@ nav ul li:hover > ul {
 /*--------------------------------index section----------------------------*/
 
 #titlehead {
-    font-size: 90pt;
+    font-size: 70pt;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     color: #fff; 
     letter-spacing: 10px;
     text-transform: uppercase;
     text-align: center;
-    padding-top: 400px;
+    padding-top: 250px;
 }
 
 #desc {
-    font-size: 30pt;   
+    font-size: 20pt;   
     font-weight: 200;
     text-align: center;
     color: #fff;
@@ -204,8 +204,8 @@ nav ul li:hover > ul {
 /*--------------------------------about section----------------------------*/
 
 #about {
-    margin-top: 2%;
-    padding-top: 2%;
+    margin-top: 1%;
+    margin-bottom: 2%;
     background: #fff;
     height: 95vh;
     max-width: 140%;
@@ -237,12 +237,12 @@ nav ul li:hover > ul {
 #contact {
     padding-top: 5%;
     background: #333333;
-    height: 400px;
+    height: 200px;
     max-width: 140%;
 }
 
 #contact ul {
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: center;  
     margin: 0px;
     color: #fff;
@@ -262,7 +262,7 @@ nav ul li:hover > ul {
 input, textarea {
     margin-top: 3px;
     margin-bottom: 3px;
-    font-family: 'Work Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     font-size: 16px;
     padding: 5px;
 }
@@ -297,7 +297,7 @@ label {
 }
 
 button {
-    font-family: 'Work Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     padding: 1%;
     margin-left: 5%;
     font-size: 14pt;
@@ -351,22 +351,24 @@ button {
 
 #contain {
     width: 100%;
+    text-align: center;
+    margin-left: 2%;
 }
 
 #row1 h2, #row2 h2, #row3 h2 {
-    font-weight: 700;
+    font-weight: 400;
     font-size: 16pt;
     margin-bottom: 0;
 }
 
 #row1 h4, #row2 h4, #row3 h4 {
     margin: 0;
-    padding-top: 1%;
     font-weight: 400;
 }
 
 #row1 h3, #row2 h3, #row3 h3 {
-    font-weight: 500;
+    font-weight: 200;
+    line-height: 26pt;
     font-size: 13pt;
     margin: 0;
 }
@@ -399,7 +401,7 @@ footer {
     display: block;
     color: #fff;
     background: #000;
-    font-family: 'Work Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
     padding: 20px 0 20px 20px; 
     font-size: 18px;
     text-align: center;
@@ -419,7 +421,7 @@ footer p {
     text-align: center;
     margin: 0;
     padding-top: 100px;
-    font-family: 'Open Sans', sans-serif, Helvetica;
+    font-family: 'Roboto', sans-serif, Helvetica;
 }
 
 .soon {
@@ -477,4 +479,16 @@ footer p {
     text-align: center;
     margin-top: -30px;
     
+}
+
+
+#lilho {
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#centerpls {
+    text-align: center;
 }
