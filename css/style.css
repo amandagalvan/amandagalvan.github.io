@@ -42,7 +42,7 @@ section {
 }
 
 .text {
-    font-size: 16pt; 
+    font-size: 12pt; 
     line-height: 22pt;
     font-weight: 300;
     text-align: center;
@@ -68,7 +68,7 @@ section {
 }
 
 .head {
-    font-size: 40pt;
+    font-size: 30pt;
     font-weight: 600;
     font-family: 'Raleway', sans-serif, Helvetica;
     text-transform: uppercase;
@@ -76,7 +76,7 @@ section {
 }
 
 .headwhite {
-    font-size: 40pt;
+    font-size: 30pt;
     font-weight: 600;
     font-family: 'Raleway', sans-serif, Helvetica;
     text-transform: uppercase;
@@ -104,7 +104,7 @@ nav a:hover, a:active {
 }
 
 ul {
-    font-size: 16pt;
+    font-size: 14pt;
     font-weight: 400;
     text-align: center;  
     margin: 0;
@@ -148,18 +148,18 @@ nav ul li:hover > ul {
 /*--------------------------------index section----------------------------*/
 
 #titlehead {
-    font-size: 90pt;
+    font-size: 70pt;
     font-weight: 600;
     font-family: 'Raleway', sans-serif, Helvetica;
     color: #fff; 
     letter-spacing: 10px;
     text-transform: uppercase;
     text-align: center;
-    padding-top: 400px;
+    padding-top: 250px;
 }
 
 #desc {
-    font-size: 30pt;   
+    font-size: 20pt;   
     font-weight: 200;
     text-align: center;
     color: #fff;
