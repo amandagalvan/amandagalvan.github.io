@@ -120,6 +120,9 @@
         height: 100%;   
     }
     
+    #contain {
+        margin-left: 0;
+    }
 
 }
 
