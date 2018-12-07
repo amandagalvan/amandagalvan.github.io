@@ -46,7 +46,7 @@ section {
     line-height: 22pt;
     font-weight: 300;
     text-align: center;
-    width: 60%;
+    width: 80%;
     margin: auto;
 }
 
@@ -59,7 +59,7 @@ section {
 }
 
 .textwhite {
-    font-size: 17pt;   
+    font-size: 12pt;   
     font-weight: 300;
     text-align: center;
     width: 45%;
@@ -131,7 +131,7 @@ nav ul ul {
 nav ul ul li {
 	float: none;
     display: block;
-    text-align: left;
+    text-align: center;
 }
 
 nav ul ul a {
@@ -204,8 +204,8 @@ nav ul li:hover > ul {
 /*--------------------------------about section----------------------------*/
 
 #about {
-    margin-top: 2%;
-    padding-top: 2%;
+    margin-top: 1%;
+    margin-bottom: 2%;
     background: #fff;
     height: 95vh;
     max-width: 140%;
@@ -237,12 +237,12 @@ nav ul li:hover > ul {
 #contact {
     padding-top: 5%;
     background: #333333;
-    height: 400px;
+    height: 200px;
     max-width: 140%;
 }
 
 #contact ul {
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: center;  
     margin: 0px;
     color: #fff;
@@ -477,4 +477,16 @@ footer p {
     text-align: center;
     margin-top: -30px;
     
+}
+
+
+#lilho {
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#centerpls {
+    text-align: center;
 }
