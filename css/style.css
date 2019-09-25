@@ -51,11 +51,20 @@ section {
     margin: auto;
 }
 
-.text-about, .caption {
+.text-about {
     font-size: 12pt; 
     line-height: 22pt;
     font-weight: 300;
     text-align: left;
+    width: 80%;
+    margin: auto;
+}
+
+.caption {
+    font-size: 12pt; 
+    line-height: 22pt;
+    font-weight: 300;
+    text-align: center;
     width: 80%;
     margin: auto;
 }
