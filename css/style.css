@@ -51,7 +51,7 @@ section {
     margin: auto;
 }
 
-.text-about {
+.text-about, .caption {
     font-size: 12pt; 
     line-height: 22pt;
     font-weight: 300;
